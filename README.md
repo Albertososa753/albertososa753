@@ -1,17 +1,25 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px" width="100%" ></div> 
-<h1 align="center">¡Hola 👋,Bienvenido a mi GitHub!</h1>
-<h2 align="center">¡Soy un programador FullStack con un
-enfoque en tecnologías JavaScript!</h2>
-<br>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi GitHub - Desarrollador FullStack</title>
+</head>
+<body>
 
-📫 Conectate conmigo: **betososa753@gmail.com**
+<div style="text-align: center;">
+  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px" width="100%">
+</div>
 
-<br>
-<div>
+<h1 align="center"> ¡Hola 👋, Bienvenido a mi <strong>GitHub</strong> !</h1>
+<h2 align="center"><strong> ¡Soy un programador FullStack con un enfoque en tecnologías JavaScript! </strong></h2>
 
-<h3 align="left">Lenguaje de Programación:</h3>
-<p align="left">
+<p align="center">📫 Conéctate conmigo: <strong>betososa753@gmail.com</strong></p>
+
+<h3>Lenguajes de Programación:</h3>
+
+<p>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -22,11 +30,10 @@ enfoque en tecnologías JavaScript!</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-</div>
 
-<div>
-<h3 align="left">Front-End:</h3>
-<p align="left">
+<h3>Front-End:</h3>
+<p>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -41,12 +48,10 @@ enfoque en tecnologías JavaScript!</h2>
   </a>
 </p>
 
-</div>
+<h3>Back-End:</h3>
+<p>
 
-<div>
-<h3 align="left">Back-End:</h3>
-<p align="left">
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -66,20 +71,19 @@ enfoque en tecnologías JavaScript!</h2>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
-</div>
 
-<div>
-<h3 align="left">Herramientas y Tecnologías para el Desarrollo Web:</h3>
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<h3>Herramientas y Tecnologías para el Desarrollo Web:</h3>
+<p>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-    <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer">
+  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -92,4 +96,6 @@ enfoque en tecnologías JavaScript!</h2>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
   </a>
 </p>
-</div>
+
+</body>
+</html>
