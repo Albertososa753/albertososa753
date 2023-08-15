@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="200"></div> 
+<img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="100%"></div> 
 <h1 align="center">Hola! 👋, Soy Alberto Angel Sosa</h1>
 <h3 align="center">FullStack Developer JavaScript</h3>
 
