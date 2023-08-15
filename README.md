@@ -1,7 +1,8 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="100%"></div> 
 <h1 align="center">Hola! 👋, Soy Alberto Angel Sosa</h1>
-<h3 align="center">FullStack Developer JavaScript</h3>
+<h3 align="center">¡Soy un programador FullStack con un
+enfoque en tecnologías JavaScript!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertososa753&label=Profile%20views&color=0e75b6&style=flat" alt="albertososa753" /> </p>
 
