@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<h3>Front-End:</h3>
+<h3>Desarrollo Front-End:</h3>
 <p>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h3>Back-End:</h3>
+<h3>Desarrollo Back-End:</h3>
 <p>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
