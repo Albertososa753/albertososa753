@@ -1,12 +1,14 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="100%"></div> 
-<h1 align="center">Hola! 👋, Soy Alberto Angel Sosa</h1>
-<h3 align="center">¡Soy un programador FullStack con un
-enfoque en tecnologías JavaScript!</h3>
+<img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px" width="100%" ></div> 
+<h1 align="center">¡Hola 👋,Bienvenido a mi GitHub!</h1>
+<h2 align="center">¡Soy un programador FullStack con un
+enfoque en tecnologías JavaScript!</h2>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertososa753&label=Profile%20views&color=0e75b6&style=flat" alt="albertososa753" /> </p>
+📫 Conectate conmigo: **betososa753@gmail.com**
 
-- 📫 Conectate conmigo: **betososa753@gmail.com**
+<br>
+<div>
 
 <h3 align="left">Lenguaje de Programación:</h3>
 <p align="left">
@@ -20,8 +22,10 @@ enfoque en tecnologías JavaScript!</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Front-End:</h3>
+</div>
 
+<div>
+<h3 align="left">Front-End:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -37,6 +41,9 @@ enfoque en tecnologías JavaScript!</h3>
   </a>
 </p>
 
+</div>
+
+<div>
 <h3 align="left">Back-End:</h3>
 <p align="left">
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -64,7 +71,9 @@ enfoque en tecnologías JavaScript!</h3>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
+</div>
 
+<div>
 <h3 align="left">Herramientas y Tecnologías para el Desarrollo Web:</h3>
 <p align="left">
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -83,3 +92,4 @@ enfoque en tecnologías JavaScript!</h3>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
   </a>
 </p>
+</div>
