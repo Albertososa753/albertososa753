@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertososa753&label=Profile%20views&color=0e75b6&style=flat" alt="albertososa753" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertososa753" alt="albertososa753" /></a> </p>
-
 - 📫 How to reach me **betososa753@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertososa753&show_icons=true&locale=en&layout=compact" alt="albertososa753" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertososa753&show_icons=true&locale=en" alt="albertososa753" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertososa753&" alt="albertososa753" /></p>
