@@ -92,6 +92,13 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertososa753&show_icons=true&locale=en&layout=compact" alt="albertososa753" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertososa753&show_icons=true&locale=en" alt="albertososa753" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertososa753&" alt="albertososa753" /></p>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/>
   </a>
