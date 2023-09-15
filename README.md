@@ -3,10 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi GitHub - Desarrollador FullStack</title>
 </head>
 <body>
-
+<h1>saludar()<h1>
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px" width="100%">
 </div>
