@@ -9,6 +9,7 @@
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px" width="100%">
 </div>
+<h2 align="center">Muchos de mis proyectos estan privados por seguridad a mis clientes!</h3>
 
 <h3 align="center">Programador FullStack</h3>
 
