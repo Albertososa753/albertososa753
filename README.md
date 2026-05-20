@@ -10,13 +10,7 @@ TypeScript • JavaScript • Next.js • React • React Native • NestJS • 
 
 ---
 
-## 👨‍💻 Sobre mí
-
-Desarrollador Full Stack enfocado en crear aplicaciones modernas, escalables y con experiencias visuales sólidas.
-
 Gran parte de mis proyectos se encuentran privados para proteger la seguridad y privacidad de mis clientes.
-
-Me apasiona desarrollar soluciones reales, enfrentar desafíos complejos y aprender nuevas tecnologías constantemente.
 
 ---
 
