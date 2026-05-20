@@ -85,12 +85,4 @@ Gran parte de mis proyectos se encuentran privados para proteger la seguridad y 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertososa753&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertososa753&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
