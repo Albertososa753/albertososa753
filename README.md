@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Alberto Sosa</h1>
+<h1 align="center">🚀 Alberto Angel Sosa</h1>
 
 <h3 align="center">
-Desarrollador Full Stack especializado en aplicaciones web y móviles modernas
+Desarrollador Full Stack
 </h3>
 
 <p align="center">
